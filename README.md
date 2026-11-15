@@ -1,16 +1,87 @@
-## Hi there 👋
+# 👋 Hi, I'm Davi Pinheiro!
 
-<!--
-**davipinheiro10-cmyk/davipinheiro10-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technology Student | Software Development & Data Analytics
 
-Here are some ideas to get you started:
+🇧🇷 Based in Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a technology enthusiast passionate about software development, programming, and data analytics. I'm constantly learning, exploring new technologies, and building practical projects to improve my skills.
+
+---
+
+## 🚀 About Me
+
+- 🎓 High school student interested in technology and software development.
+- 🐍 Completed a foundational Python course at SENAI.
+- 🟨 Completed a JavaScript course at SENAI.
+- 📊 Currently studying Power BI and data analytics.
+- 💻 Interested in building practical projects and solving problems through technology.
+- 🌱 Always learning and looking for opportunities to grow in the tech industry.
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/davipinheiro10-cmyk">
+    <img src="https://img.shields.io/badge/GitHub-davipinheiro10--cmyk-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+  </a>
+  <a href="https://www.instagram.com/davi.pinheiro10/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-davi.pinheiro10-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/davi-pinheiro-784202414/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-My%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+  </a>
+</p>
+
+---
+
+
+## 🧠 What I Do
+
+- 💻 Explore software development and programming.
+- 🐍 Practice programming with Python.
+- 🟨 Develop my JavaScript skills.
+- 📊 Study data analysis and visualization with Power BI.
+- 🛠️ Build practical projects to improve my technical skills.
+- 🌱 Continuously learn new technologies and solve problems through code.
+
+
+---
+
+## 🛠️ Tech Stack
+
+## Languages & Web
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
+## Data & Analytics
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## Dev Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+---
+
+## 📊 GitHub Stats
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davipinheiro10-cmyk&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davipinheiro10-cmyk&theme=github_dark&timeZone=America/Sao_Paulo)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davipinheiro10-cmyk&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davipinheiro10-cmyk&theme=github_dark)
+
+
+---
